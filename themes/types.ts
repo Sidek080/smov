@@ -1,5 +1,5 @@
 import { DeepPartial } from "vite-plugin-checker/dist/esm/types";
-import { defaultTheme } from "./default";
+import { defaultTheme } from "./list/red";
 
 export interface Theme {
   name: string;
